@@ -91,6 +91,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "student-progress-report",
+      "title": "Student Progress Report Generator",
+      "description": "Practice functions and file handling by generating a class progress summary from score data.",
+      "path": "assignments/student-progress-report",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Scores",
+          "file": "scores.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
