@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "python-fundamentals",
+      "title": "Python Fundamentals",
+      "description": "Beginner practice with variables, input, conditionals, and loops.",
+      "path": "assignments/python-fundamentals",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
